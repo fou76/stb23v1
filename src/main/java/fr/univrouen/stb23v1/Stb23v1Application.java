@@ -1,4 +1,4 @@
-package fr.rouen.stb23v1;
+package fr.univrouen.stb23v1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
